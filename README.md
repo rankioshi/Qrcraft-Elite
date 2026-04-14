@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://imgur.com/a/XbXfeFU" />
+<img width="1200" height="475" alt="GHBanner" src="https://i.imgur.com/TTcg1Go.png" />
 </div>
 
 ## ☁️ Integração Firebase
